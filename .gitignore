@@ -1,0 +1,10 @@
+.idea/
+logs/
+.venv/
+
+# Secrets -- never commit
+.env
+.env.local
+*.p8
+*.pem
+*.pub
